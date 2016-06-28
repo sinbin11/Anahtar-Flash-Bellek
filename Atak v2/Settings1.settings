@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Atak_v2" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="Y1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lütfen Anahtar Takınız</Value>
+    </Setting>
+    <Setting Name="Y2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ferit Etem</Value>
+    </Setting>
+    <Setting Name="Y3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Anahtar = flash ın içindeki h.txt dosyası</Value>
+    </Setting>
+    <Setting Name="Y4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ctrl+alt+delete nasıl engellencek :D</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
